@@ -527,4 +527,4 @@ Here are a few points that answer this question:
 
 I am calm, find compromise solutions, know how to negotiate with people, escalate problems to different levels, and am not afraid to tell the truth.
 
-Personal interests: I snowboard, mountain bike, and am learning to play the piano. I am interested in science and technology. I have a deep understanding of music. I enjoy teaching people what I am good at.
+Personal interests: snowboard, mountain bike. Learning to play the piano. I am interested in science and technology. Music is my passion. I enjoy teaching people what I am good at.
