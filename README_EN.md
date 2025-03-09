@@ -4,6 +4,8 @@ My name is Alexander Agafonov. I am a former systems analyst, and for the past f
 
 Currently, I am taking an iOS developer course and plan to work in this field after completing my training.
 
+Читайте русскую версию [здесь](README.md).
+
 ## Experience
 
 Please note that the description does not mention hard skills; they are listed separately in a dedicated section below. It seems that this will provide a complete understanding of what I can do at the moment, and there is no great need to specify what was done in each specific place.
